@@ -41,7 +41,7 @@ percebe que é faz de conta.
 9
 00:01:06,306 --> 00:01:08,846
 O ano passado, quando Brutus estava
-prestes a matar Julio César
+prestes a matar Júlio César
 
 10
 00:01:08,856 --> 00:01:13,148
@@ -169,7 +169,7 @@ Queimem a Rolling Rosalind!
 
 37
 00:02:51,251 --> 00:02:54,653
-Destruam a Gertrude
+Destruam a Gertrudes
 Que-Vai-Acima-E-Abaixo-E-Depois-Continua!
 
 38
@@ -427,7 +427,7 @@ este espeto na sua cabeça.
 
 90
 00:06:57,708 --> 00:07:01,749
-Senhoras e senhores, dêem as
+Senhoras e senhores, deem as
 boas vindas ao Sr. David Keanrick.
 
 91
@@ -622,7 +622,7 @@ podemos confiar nestes atores?
 131
 00:09:33,424 --> 00:09:36,054
 Da última vez que fomos ao teatro,
-três deles mataram Julio César,
+três deles mataram Júlio César,
 
 132
 00:09:36,055 --> 00:09:38,857
@@ -651,7 +651,7 @@ O quê?
 137
 00:09:55,109 --> 00:09:58,670
 Que afinal não tinha matado César,
-apenas um reles actor chamado Kemp.
+apenas um reles ator chamado Kemp.
 
 138
 00:09:58,910 --> 00:10:02,071
@@ -752,7 +752,7 @@ que se refira a Macbeth.
 
 159
 00:11:35,373 --> 00:11:39,293
-Batata quente, platéia da
+Batata quente, plateia da
 orquestra, colhe pra fazer as pazes.
 
 160
@@ -776,7 +776,7 @@ Qual, Macbeth?
 
 164
 00:11:54,097 --> 00:11:57,298
-Batata quente, platéia da
+Batata quente, plateia da
 orquestra, colhe pra fazer as pazes.
 
 165
@@ -786,7 +786,7 @@ isso cada vez que digo "Macbeth"?
 
 166
 00:12:01,059 --> 00:12:05,939
-Batata quente, platéia da
+Batata quente, plateia da
 orquestra, colhe pra fazer as pazes.
 
 167
@@ -805,7 +805,7 @@ Em vez de "Macbeth"?
 
 170
 00:12:15,862 --> 00:12:18,942
-Batata quente, platéia da
+Batata quente, plateia da
 orquestra, colhe pra fazer as pazes.
 
 171
@@ -824,13 +824,13 @@ Macbeth, Sr.
 
 174
 00:12:28,625 --> 00:12:32,546
-Batata quente, platéia da
+Batata quente, plateia da
 orquestra, colhe pra fazer as pazes.
 
 175
 00:12:32,786 --> 00:12:37,907
-- Não, não, chamava-se Julio César.
-- Ah sim, claro, Julio César.
+- Não, não, chamava-se Júlio César.
+- Ah sim, claro, Júlio César.
 
 176
 00:12:38,107 --> 00:12:39,627
@@ -838,7 +838,7 @@ Não Macbeth.
 
 177
 00:12:39,867 --> 00:12:44,389
-Batata quente, platéia da
+Batata quente, plateia da
 orquestra, colhe pra fazer as pazes.
 
 178
@@ -1043,12 +1043,12 @@ Excelente. E agora,
 Sr., por fim, o discurso.
 
 220
-00:15:42,990 --> 00:15:44,230
-Certo.
-
-221
 00:15:42,984 --> 00:15:45,862
 
+
+221
+00:15:42,990 --> 00:15:44,230
+Certo.
 
 222
 00:15:47,151 --> 00:15:52,513
@@ -1098,7 +1098,7 @@ Ser ou não ser.
 
 232
 00:16:27,801 --> 00:16:30,881
-Do seu Julio César.
+Do seu Júlio César.
 
 233
 00:16:31,121 --> 00:16:38,643
@@ -1116,7 +1116,7 @@ numa peça ligada á Escócia.
 
 236
 00:16:47,046 --> 00:16:50,406
-Batata quente, platéia da
+Batata quente, plateia da
 orquestra, colhe pra fazer as pazes.
 
 237
@@ -1166,7 +1166,7 @@ fato. O problema é que o escreveu,
 247
 00:17:58,662 --> 00:18:03,983
 Sr. Mordomo-Incurável-tolo-não-consegue-
--escrever-porcaria-nehuma!
+-escrever-porcaria-nenhuma!
 
 248
 00:18:09,255 --> 00:18:12,550
@@ -1470,7 +1470,7 @@ Oh bolas!
 311
 00:22:51,890 --> 00:22:54,490
 Sr. Mordomo-Incurável-tolo-não-consegue-
--escrever-porcaria-nehuma?
+-escrever-porcaria-nenhuma?
 
 312
 00:22:54,730 --> 00:22:55,732
@@ -1616,7 +1616,7 @@ a dizer-vos...Macbeth!
 
 342
 00:24:50,557 --> 00:24:54,559
-Batata quente, platéia da
+Batata quente, plateia da
 orquestra, colhe pra fazer as pazes.
 
 343
