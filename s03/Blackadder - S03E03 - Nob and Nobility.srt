@@ -99,7 +99,7 @@ em molho Scarlet Pimpernel.
 
 22
 00:01:54,704 --> 00:01:57,424
-Sim, está bem. Vou para o pub.
+Sim, está bem. Vou para o bar.
 
 23
 00:01:57,664 --> 00:02:01,025
@@ -756,7 +756,7 @@ pegamos num velho aristocrata francês,
 162
 00:10:04,718 --> 00:10:08,278
 arrastamo-lo por uma poça, levamo-lo ao
-baile, e reinvidicamos nossos mil guinéus.
+baile, e reivindicamos nossos mil guinéus.
 
 163
 00:10:08,518 --> 00:10:14,239
@@ -854,7 +854,7 @@ para conhecer amáveis franceses.
 183
 00:11:30,253 --> 00:11:33,214
 Bem, 'vive' a isso
-e um eclair para nós dois!
+e um éclair para nós dois!
 
 184
 00:11:33,454 --> 00:11:38,055
@@ -869,7 +869,7 @@ sangue nobre, mas também sem dinheiro.
 186
 00:11:42,856 --> 00:11:48,857
 Tenho mesmo o tipo para si, ali ao pé
-da janela, o Comte de Frou-Frou.
+da janela, o Conde de Frou-Frou.
 
 187
 00:11:49,097 --> 00:11:54,778
@@ -895,7 +895,7 @@ Descobrimos alho!
 
 192
 00:12:07,660 --> 00:12:09,981
-O Comte de Frou-Frou, penso eu.
+O Conde de Frou-Frou, penso eu.
 
 193
 00:12:11,902 --> 00:12:15,222
@@ -1069,7 +1069,7 @@ Eu sou um malvado revolucionário
 229
 00:14:31,448 --> 00:14:39,049
 e matei o embaixador
-e transformei-o em pâté.
+e transformei-o em patê.
 
 230
 00:14:40,410 --> 00:14:41,370
@@ -1085,17 +1085,17 @@ E tu, aristo-porco, estás encurralado.
 
 233
 00:14:45,010 --> 00:14:49,731
-Porco? Hah! Vais-te arrepender da
+Porco? Ha! Vais-te arrepender da
 tua insolência, cão revolucionário.
 
 234
 00:14:49,971 --> 00:14:53,452
-Cão? Hah! Vais-te arrepender
+Cão? Ha! Vais-te arrepender
 da tua arrogância, cobra real.
 
 235
 00:14:53,692 --> 00:14:54,808
-Cobra? Hah!
+Cobra? Ha!
 
 236
 00:14:54,809 --> 00:14:56,892
@@ -1168,8 +1168,8 @@ Olha quem fala, aristo-javali.
 
 251
 00:15:47,982 --> 00:15:49,663
-- Javali? Hah!
-- Hah!
+- Javali? Ha!
+- Ha!
 
 252
 00:15:48,990 --> 00:15:50,690
@@ -1239,7 +1239,7 @@ com esta escória? Não tenha medo!
 266
 00:16:32,351 --> 00:16:36,671
 - O Scarlet Pimpernel virá salvar-nos.
-- Hah! Quem dera.
+- Ha! Quem dera.
 
 267
 00:16:36,911 --> 00:16:39,082
@@ -1292,7 +1292,7 @@ Ah, o embaixador, hurra...
 
 278
 00:17:11,758 --> 00:17:14,839
-Hmm, não tenho nada para fazer.
+Mm, não tenho nada para fazer.
 
 279
 00:17:15,079 --> 00:17:18,520
@@ -1308,17 +1308,17 @@ Por isso acho que vou torturar...
 
 282
 00:17:21,000 --> 00:17:24,641
-Vira-lata? Hah!
+Vira-lata? Ha!
 Estou ansioso por isso, lixo proletário!
 
 283
 00:17:24,881 --> 00:17:28,402
-Lixo? Hah! Vamos ver isso,
+Lixo? Ha! Vamos ver isso,
 seu hipopótamo aristocrático!
 
 284
 00:17:28,642 --> 00:17:31,202
-Hipopótamo? Hah!
+Hipopótamo? Ha!
 Em breve vamos ver quem é o hipopótamo.
 
 285
@@ -1338,7 +1338,7 @@ ou as palavras "tenho um plano sorrateiro"
 288
 00:17:42,684 --> 00:17:46,204
 estão vindo com pouca confiança
-na direcção desta conversa?
+na direção desta conversa?
 
 289
 00:17:46,444 --> 00:17:48,206
@@ -1485,7 +1485,7 @@ a sua massiva cabeça inchada pela porta.
 320
 00:19:28,144 --> 00:19:33,466
 Sim, bem, quando era ainda menor,
-viviamos numa barraca assombrada.
+vivíamos numa barraca assombrada.
 
 321
 00:19:33,706 --> 00:19:40,187
@@ -1508,7 +1508,7 @@ Felizmente, eu nunca a vi.
 
 325
 00:19:54,509 --> 00:20:01,550
-Quando saiste de casa, essa entidade
+Quando saíste de casa, essa entidade
 repulsiva desapareceu misteriosamente?
 
 326
@@ -1592,7 +1592,7 @@ de Paris esta manhã.
 
 343
 00:20:57,782 --> 00:21:00,442
-Dêem boas vindas à Madame Guilhotina!
+Deem boas vindas à Madame Guilhotina!
 
 344
 00:21:08,083 --> 00:21:11,404
@@ -1655,7 +1655,7 @@ Saúde.
 357
 00:22:00,573 --> 00:22:04,454
 Penso que estavam à espera
-de serem salvos, huh?!
+de serem salvos, hum?!
 
 358
 00:22:04,694 --> 00:22:05,894
@@ -1864,7 +1864,7 @@ Blackadder, como diabos o libertou?
 401
 00:24:47,605 --> 00:24:49,765
 É um conto extraordinário
-de coragem e heroismo
+de coragem e heroísmo
 
 402
 00:24:50,005 --> 00:24:53,086
