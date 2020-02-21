@@ -104,7 +104,7 @@ dizendo: "desculpe señor"
 22
 00:01:48,687 --> 00:01:52,043
 e dar uma paulada na cabeça,
-merece o que Ihe acontece.
+merece o que lhe acontece.
 
 23
 00:01:56,407 --> 00:01:59,365
@@ -128,11 +128,11 @@ Que bom.
 27
 00:02:14,967 --> 00:02:17,606
 Eu disse "que foi",
-não "dêem-me uma paulada".
+não "deem-me uma paulada".
 
 28
 00:02:20,087 --> 00:02:23,682
-Melchy, mudei de idéia
+Melchy, mudei de ideia
 quanto ao Forrester.
 
 29
@@ -198,7 +198,7 @@ Onde eu estou?
 
 42
 00:03:31,247 --> 00:03:34,125
-Devía limpar a sua casa.
+Devia limpar a sua casa.
 
 43
 00:03:35,847 --> 00:03:37,166
@@ -234,7 +234,7 @@ ouvido serei eu, está bem?
 
 50
 00:04:02,887 --> 00:04:05,765
-- Diga-Ihe, Melchett.
+- Diga-lhe, Melchett.
 - Fale primeiro com ele.
 
 51
@@ -258,7 +258,7 @@ Está melhor.
 55
 00:04:21,487 --> 00:04:25,036
 - Mais alguma coisa?
-- Sim, também quer Ihe torturar.
+- Sim, também quer lhe torturar.
 
 56
 00:04:26,847 --> 00:04:31,602
@@ -311,7 +311,7 @@ Comecemos pelo princípio.
 
 67
 00:05:11,527 --> 00:05:16,476
-O inglês é uma língua indo-européia
+O inglês é uma língua indo-europeia
 não flexionada, derivada de...
 
 68
@@ -585,7 +585,7 @@ seus convidados em um criado-mudo.
 126
 00:10:13,207 --> 00:10:17,325
 Espero que esse lixo
-não tenha Ihe incomodado.
+não tenha lhe incomodado.
 
 127
 00:10:19,007 --> 00:10:22,920
@@ -595,27 +595,27 @@ tarado interessado nos meus "ovos".
 128
 00:10:24,007 --> 00:10:28,558
 Ótimo. Se tivesse,
-Ihe ofereceria a língua dele.
+lhe ofereceria a língua dele.
 
 129
 00:10:29,927 --> 00:10:36,002
 Se tivesse me incomodado,
-não tería língua para me oferecer.
+não teria língua para me oferecer.
 
 130
 00:10:37,327 --> 00:10:41,764
 Garanto, se não tivesse
-língua para Ihe oferecer,
+língua para lhe oferecer,
 
 131
 00:10:42,327 --> 00:10:46,684
 já não teria língua para me dizer
-que, se ele tivesse Ihe incomodado,
+que, se ele tivesse lhe incomodado,
 
 132
 00:10:47,807 --> 00:10:50,480
 eu não teria língua
-para Ihe oferecer.
+para lhe oferecer.
 
 133
 00:10:52,647 --> 00:10:57,277
@@ -655,7 +655,7 @@ jogava dominó, em Dover?
 140
 00:11:28,407 --> 00:11:31,205
 Não acredito!
-Você, era a Big Sally?
+Você, era a Sally Gorda?
 
 141
 00:11:33,087 --> 00:11:35,476
@@ -664,7 +664,7 @@ de torta, meu amo?
 
 142
 00:11:36,167 --> 00:11:37,759
-Mas eu Ihe levei
+Mas eu lhe levei
 para a cama, não levei?
 
 143
@@ -756,11 +756,11 @@ Fala demais, Black Adder.
 
 161
 00:12:49,527 --> 00:12:51,802
-Acho que sofre de diarréia verbal.
+Acho que sofre de diarreia verbal.
 
 162
 00:12:54,167 --> 00:12:57,603
-Deixe-me Ihe dizer que dei
+Deixe-me lhe dizer que dei
 à sua rainha uma semana
 
 163
@@ -856,7 +856,7 @@ interessante nas suas roupas.
 
 182
 00:14:19,407 --> 00:14:22,285
-No lugar, não Ihe
+No lugar, não lhe
 atribuiria muita importância.
 
 183
@@ -970,7 +970,7 @@ do berro que o gato deu!
 206
 00:16:07,487 --> 00:16:10,843
 Black Adder, e se eu cantasse,
-para elevar nossos espiritos?
+para elevar nossos espíritos?
 
 207
 00:16:11,607 --> 00:16:14,679
@@ -1129,7 +1129,7 @@ Quer dizer que ambos concordam?
 
 240
 00:18:28,087 --> 00:18:31,318
-Que alegria Ihes ver
+Que alegria lhes ver
 cedendo perante a mim...
 
 241
@@ -1456,7 +1456,7 @@ um, dois!
 
 309
 00:22:56,927 --> 00:23:00,715
-Gesto insultosos de despedida,
+Gesto insultuosos de despedida,
 um dois! Um, dois!
 
 310
@@ -1623,7 +1623,7 @@ com as tetas?
 
 344
 00:25:43,967 --> 00:25:46,845
-Deixe-me Ihes apresentar
+Deixe-me lhes apresentar
 o nosso algoz carcereiro...
 
 345
@@ -1858,4 +1858,3 @@ de que muito vou gostar.
 395
 00:29:11,847 --> 00:29:14,520
 Basta que mude a voz.
-
